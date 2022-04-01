@@ -15,7 +15,7 @@ I am a final year Systems Engineering student 🎓. I am a learner who is always
 * 🔭 💻 I am currently working, learning and growing my skills and coding.
 * 💻 I love exploring new tech stack and building cool stuffs.
 * ⚡ Connect to Know More!.
-* 📝 Checkout my [Resume](https://garciajhonlucas.com/Resume.pdf).
+* 📝 Checkout my [Resume](https://garciajhonlucas.github.io/docs/garcia_jhon_lucas_resume.pdf).
 
 ### My Tech Stack
 
