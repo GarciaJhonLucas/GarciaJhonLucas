@@ -2,7 +2,7 @@
 
 ### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=GarciaJhonLucas&label=Profile%20views&color=0e75b6&style=flat" alt="GarciaJhonLucas"/> ![GitHub followers](https://img.shields.io/github/followers/GarciaJhonLucas) ![GitHub User's stars](https://img.shields.io/github/stars/GarciaJhonLucas) ![visitors](https://visitor-badge.glitch.me/badge?page_id=GarciaJhonLucas.readme)
 
-I am a Bach. Systems Engineering student 🎓. I am a learner who is always willing to learn and work across technologies 💡. I like to explore new technologies and use them to solve problems ✨. I currently focus on web development 🕸️ and computer vision 👀.
+I am a Bach. Systems Engineering. I am a learner who is always willing to learn and work across technologies 💡. I like to explore new technologies and use them to solve problems ✨. I currently focus on web development 🕸️ and computer vision 👀.
 
 <p align="center">
 
