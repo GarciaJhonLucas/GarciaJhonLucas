@@ -1,32 +1,23 @@
 ## Hey 👋, I'm [Garcia Jhon Lucas ](http://garciajhonlucas.com/)
 
 ### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=GarciaJhonLucas&label=Profile%20views&color=0e75b6&style=flat" alt="GarciaJhonLucas"/> ![GitHub followers](https://img.shields.io/github/followers/GarciaJhonLucas) ![GitHub User's stars](https://img.shields.io/github/stars/GarciaJhonLucas) ![visitors](https://visitor-badge.glitch.me/badge?page_id=GarciaJhonLucas.readme)
-
-I am a Bach. Systems Engineering. I am a learner who is always willing to learn and work across technologies 💡. I like to explore new technologies and use them to solve problems ✨. I currently focus on web development 🕸️ and computer vision 👀.
-
-<p align="center">
-
-[<img src="https://img.shields.io/badge/GarciaJhonLucas%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/GarciaJhonLucas) [<img src="https://img.shields.io/badge/GarciaJhonLucas%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/GarciaJhonLucas/) [<img src="https://img.shields.io/badge/GarciaJhonLucas%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/GarciaJhonLucas/)
-
-</p>
-
+I am a Bach. Systems Engineering. I am a learner who is always willing to learn and work across technologies bulb. I like to explore new technologies and use them to solve problems sparkles. I currently focus on web development spider_web and computer vision eyes.
 ### More about me:
-
-* 🔭 💻 I am currently working, learning and growing my skills and coding.
+* 🔭 I am currently working, learning and growing my skills and coding.
 * 💻 I love exploring new tech stack and building cool stuffs.
 * ⚡ Connect to Know More!.
 * 📝 Checkout my [Resume](https://garciajhonlucas.github.io/docs/garcia_jhon_lucas_resume.pdf).
 
-### My Tech Stack
+## Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/GarciaJhonLucas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/GarciaJhonLucas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/GarciaJhonLucas) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/GarciaJhonLucas) 
 
-#### Front End
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
+# Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GarciaJhonLucas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GarciaJhonLucas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-#### Back End
-<img src="https://img.shields.io/badge/Python-ffd340?style=for-the-badge&logo=python&logoColor=black"> <img src="https://img.shields.io/badge/Java-e11e21?style=for-the-badge&logo=java&logoColor=white"> <img  src="https://img.shields.io/badge/CSHARP-563D7C?style=for-the-badge&logo=csharp&logoColor=white"> 
-
-###  I want to learn:
-* Next.js
-
-### Outside of coding I enjoy:
-* 🎮 Playing video games 
+###  Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
+[![](https://visitcount.itsvg.in/api?id=GarciaJhonLucas&icon=0&color=0)](https://visitcount.itsvg.in)
