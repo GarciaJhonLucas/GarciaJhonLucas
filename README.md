@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Garcia Jhon Lucas ](http://garciajhonlucas.com/)
 
-### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=GarciaJhonLucas&label=Profile%20views&color=0e75b6&style=flat" alt="GarciaJhonLucas"/> ![GitHub followers](https://img.shields.io/github/followers/GarciaJhonLucas) ![GitHub User's stars](https://img.shields.io/github/stars/GarciaJhonLucas) ![visitors](https://visitor-badge.glitch.me/badge?page_id=GarciaJhonLucas.readme)
+### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=GarciaJhonLucas&label=Profile%20views&color=0e75b6&style=flat" alt="GarciaJhonLucas"/> ![GitHub followers](https://img.shields.io/github/followers/GarciaJhonLucas) ![GitHub User's stars](https://img.shields.io/github/stars/GarciaJhonLucas)
 I am a Bach. Systems Engineering. I am a learner who is always willing to learn and work across technologies bulb. I like to explore new technologies and use them to solve problems sparkles. I currently focus on web development spider_web and computer vision eyes.
 ### More about me:
 * 🔭 I am currently working, learning and growing my skills and coding.
