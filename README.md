@@ -35,7 +35,6 @@ Desarrollador enfocado en soluciones de alto rendimiento. Me apasiona el backend
 <p align="center">
 
 </p>
----
 
 ### 📫 Conectemos
 <p align="left">
